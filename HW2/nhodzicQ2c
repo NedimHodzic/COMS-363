@@ -1,0 +1,7 @@
+Can't enforce the total participation between Managers and manage.
+
+Can't enforce the total participation between Products and bought_from.
+
+Employees can not be multiple things, EX: Employee can't be a Manager and a Fulltime_worker
+
+There is no way for a customer to buy the same item again with a different qty.
