@@ -1,4 +1,4 @@
 # COMS-363
-This is a repository containing homework assignments from COM S 363 at Iowa State University
+This repository contains homework assignments from COM S 363: Introduction to Database Management Systems at Iowa State University, taken in my Junior year.
 
-PDF's for each assignment are included
+PDFs for each assignment are included.
